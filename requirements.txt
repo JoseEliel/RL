@@ -1,7 +1,4 @@
 matplotlib
 ipywidgets
 numpy
-ipycanvas
-asyncio
-ipyevents
 tensorflow
